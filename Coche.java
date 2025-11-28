@@ -1,3 +1,4 @@
 String marca;
-arranca()
-syso("Brum brum")
+int puertas = 5;
+arranca();
+syso("Brum brum");
